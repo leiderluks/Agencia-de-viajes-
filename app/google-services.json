@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720030550501",
+    "project_id": "agencia-de-viajes-a4308",
+    "storage_bucket": "agencia-de-viajes-a4308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720030550501:android:9aebc7bbba98b79b99870c",
+        "android_client_info": {
+          "package_name": "com.example.agenciadeviajes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720030550501-k169934lmikjntrm7gb64c2fcu086i5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQVLQLlhURQdSAyLil--VCx2w38LYc5zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720030550501-k169934lmikjntrm7gb64c2fcu086i5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
